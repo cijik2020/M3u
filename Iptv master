@@ -1,0 +1,133 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ThwSHy.jpg",RO | 
+Kanal D http://livefeed.kanald.ro/iphone/live.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R5TLlc.png",RO | Antena Monden 
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH624pc.png",RO | Antena Comedy 
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO CLASIC 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO TV 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QHdiTO.png",RO | Bucovina TV 
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MufRJgP.png",RO | Digi24 
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8 
+http://stream.adunity.com/b1/b1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8bgnx7.jpg",RO | Kaptial TV 
+http://163.172.172.80:8080/hls/livestream.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fw2fTCA.jpg",RO | 
+MOOZ Dance http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3alPZ8X.jpg",RO | MOOZ HD 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7jP9r1.jpg",RO | MOOZ Hits 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgJNpv9.png",RO | MOOZ RO 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJTcfxk.png",RO | Nasul TV 
+https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NS86Q5.png",RO | Tezaur TV 
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyu1yKB.png",RO | TVR 1 
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASFXz4f.png",RO | TVR 2 
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pb2nnKU.png",RO | TVR 3 
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouVOW2q.png",RO | TVR HD 
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0fNQkb.png",RO | UTV 
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ThwSHy.jpg",RO | Kanal D 
+http://livefeed.kanald.ro/iphone/live.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R5TLlc.png",RO | Antena Monden 
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH624pc.png",RO | Antena Comedy 
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQqgkzw.jpg",RO | B1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO CLASIC 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO TV 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QHdiTO.png",RO | Bucovina TV 
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MufRJgP.png",RO | Digi24 
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8 
+http://stream.adunity.com/b1/b1.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8bgnx7.jpg",RO | Kaptial TV 
+http://163.172.172.80:8080/hls/livestream.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fw2fTCA.jpg",RO | MOOZ Dance 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3alPZ8X.jpg",RO | MOOZ HD 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7jP9r1.jpg",RO | MOOZ Hits 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgJNpv9.png",RO | MOOZ RO 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJTcfxk.png",RO | Nasul TV 
+https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NS86Q5.png",RO | Tezaur TV 
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyu1yKB.png",RO | TVR 1 
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASFXz4f.png",RO | TVR 2 
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pb2nnKU.png",RO | TVR 3 
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouVOW2q.png",RO | TVR HD 
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0fNQkb.png",RO | UTV 
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8 
+#EXTINF:-1,RO: Antena Comedy 
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8 
+#EXTINF:-1,RO: Antena Cook 
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8 
+#EXTINF:-1,RO: Național TV 
+http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8 
+#EXTINF:-1,Pro TV HD 
+http://79.116.155.117:8090/ProTVHD/index.m3u8 
+#EXTINF:-1,Pro TV HD 
+http://79.116.155.117:90/ProTVHD/index.m3u8 
+#EXTINF:-1,Acasa TV Gold 
+http://89.45.201.132:2222/udp/224.0.0.3:112 
+#EXTINF:-1,Animal Planet HD 
+http://89.45.201.132:2222/udp/224.0.0.3:509 
+#EXTINF:-1,DISNEY JUNIOR 
+http://89.45.201.132:2222/udp/224.0.0.3:607 
+#EXTINF:-1,BOOMERANG 
+http://89.45.201.132:2222/udp/224.0.0.3:154 
+#EXTINF:-1,Pro Cinema 
+http://89.45.201.132:2222/udp/224.0.0.3:504 
+#EXTINF:-1,NatGeo Wild 
+http://89.45.201.132:2222/udp/224.0.0.3:709 
+#EXTINF:-1,Discovery Channel 
+http://89.45.201.132:2222/udp/224.0.0.3:701 
+#EXTINF:-1,Taraf TV HD 
+http://89.45.201.132:2222/udp/224.0.0.3:616 
+#EXTINF:-1,Traditii TV 
+http://89.45.201.132:2222/udp/224.0.0.3:611 
+#EXTINF:-1,ETNO TV HD 
+http://89.45.201.132:2222/udp/224.0.0.3:608 
+#EXTINF:-1,Favorit TV 
+http://89.45.201.132:2222/udp/224.0.0.3:609 
+#EXTINF:-1,Eurosport 2 
+http://89.45.201.132:2222/udp/224.0.0.3:207 
+#EXTINF:-1,Dolce Sport 5 
+http://89.45.201.132:2222/udp/224.0.0.3:211 
+#EXTINF:-1,Dolce Sport 6 
+http://89.45.201.132:2222/udp/224.0.0.3:212 
+#EXTINF:-1,Disney Channel 
+http://89.45.201.132:2222/udp/224.0.0.3:150 
+#EXTINF:-1,Disney Junior 
+http://89.45.201.132:2222/udp/224.0.0.3:151 
+#EXTINF:-1,Cartoon Network 
+http://89.45.201.132:2222/udp/224.0.0.3:152 
+#EXTINF:-1,Nickelodeon 
+http://89.45.201.132:2222/udp/224.0.0.3:153 
+#EXTINF:-1,Minimax 
+http://89.45.201.132:2222/udp/224.0.0.3:156 
+#EXTINF:-1,Duck TV 
+http://89.45.201.132:2222/udp/224.0.0.3:157 
+#EXTINF:-1,Nick Junior 
+http://89.45.201.132:2222/udp/224.0.0.3:158 
+#EXTINF:-1,Fishing 
+http://89.45.201.132:2222/udp/224.0.0.3:138
